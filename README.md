@@ -9,3 +9,6 @@
 * Show the difference between fully declared PyMC Model
 * Explain ArviZ Plots
 * Show the model graph output
+
+### Future livestream
+* How to debug a bambi model
