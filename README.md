@@ -8,3 +8,4 @@
 ### Additional todos
 * Show the difference between fully declared PyMC Model
 * Explain ArviZ Plots
+* Show the model graph output
