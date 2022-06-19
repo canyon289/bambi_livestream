@@ -11,6 +11,7 @@
 * Show the model graph output
 * Explain how to interpret plot_energy
   * Ravin will update the arviz docs to explain
+* Can VI be used with Bambi?
 
 ### Future livestream
 * How to debug a bambi model
