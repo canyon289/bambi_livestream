@@ -12,3 +12,4 @@
 
 ### Future livestream
 * How to debug a bambi model
+  * Use a hierarchical example https://bayesiancomputationbook.com/markdown/chp_04.html#hierarchical-models
