@@ -9,6 +9,8 @@
 * Show the difference between fully declared PyMC Model
 * Explain ArviZ Plots
 * Show the model graph output
+* Explain how to interpret plot_energy
+  * Ravin will update the arviz docs to explain
 
 ### Future livestream
 * How to debug a bambi model
